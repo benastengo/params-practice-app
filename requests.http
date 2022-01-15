@@ -1,0 +1,5 @@
+# I guess im mainly confused on how to manipulate URL bar information inside the body of a POST request.  My understanding is that the POST requests can call on already stored information making string alterations.
+# What I have below technically works but I doubt thats what was being asked of me.  
+POST http://www.localhost:3000/phrases/hello
+Content-Type: application/json
+
